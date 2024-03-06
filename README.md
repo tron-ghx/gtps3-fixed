@@ -1,4 +1,4 @@
-# GTPS3 - Leaked Source (FIXED + CORE) (FRESH)
+# GTPS3 - Leaked Source (FIXED + CORE) (FRESH) (LATEST)
 # NOTE: Don't forget to change from Debug x64 to Release x64
 
 I heard Vyte is looking for fans to become a famous person by collab with any server & using his source, so I want to share his source here with the hope that you don't need to look for people to make your server look good & you should try to find ways to make people interested in playing on your server.
